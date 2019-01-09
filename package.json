@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "A simple backend that works as proxy for the meetup.org api",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node index.js"
+  },
   "keywords": [],
   "author": "Daniel Rodríguez Gil <daniel@dpstudios.es> (dpstudios.es)",
   "license": "MIT",
